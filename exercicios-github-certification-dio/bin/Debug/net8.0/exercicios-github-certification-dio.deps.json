@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exercicios-github-certification-dio/1.0.0": {
+        "runtime": {
+          "exercicios-github-certification-dio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicios-github-certification-dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

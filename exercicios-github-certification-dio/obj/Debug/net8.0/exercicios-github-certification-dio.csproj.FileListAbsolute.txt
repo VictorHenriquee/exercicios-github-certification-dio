@@ -1,0 +1,14 @@
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.AssemblyInfoInputs.cache
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.AssemblyInfo.cs
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.csproj.CoreCompileInputs.cache
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\bin\Debug\net8.0\exercicios-github-certification-dio.exe
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\bin\Debug\net8.0\exercicios-github-certification-dio.deps.json
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\bin\Debug\net8.0\exercicios-github-certification-dio.runtimeconfig.json
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\bin\Debug\net8.0\exercicios-github-certification-dio.dll
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\bin\Debug\net8.0\exercicios-github-certification-dio.pdb
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.dll
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\refint\exercicios-github-certification-dio.dll
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.pdb
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\exercicios-github-certification-dio.genruntimeconfig.cache
+C:\Cursos\Dio\formacao_github-certification\projetos\exercicios-github-certification-dio\exercicios-github-certification-dio\obj\Debug\net8.0\ref\exercicios-github-certification-dio.dll
