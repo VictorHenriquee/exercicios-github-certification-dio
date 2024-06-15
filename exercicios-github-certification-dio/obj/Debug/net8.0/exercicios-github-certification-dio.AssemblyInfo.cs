@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicios-github-certification-dio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136717eaf2b4bbcbaa9ff453fda85d8820785a62")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicios-github-certification-dio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicios-github-certification-dio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
